@@ -1,0 +1,66 @@
+module.exports = [
+{
+	"name":"Woody",
+  	"photo":"http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Image.png",
+  	"scores":[
+      	3,
+      	1,
+      	4,
+      	2,
+      	4,
+      	5,
+      	1,
+      	1,
+      	5,
+      	2
+    ]
+},
+{
+	"name":"Buzz",
+	"photo":"http://www.monologuedb.com/wp-content/uploads/2011/03/tim-allen-buzz-lightyear-toy-story.jpg",
+	"scores":[
+		5,	
+		2,
+		1,
+		4,
+		3,
+		1,
+		5,
+		4,
+		1,
+		5
+	]
+},
+{
+	"name":"Rex",
+	"photo":"https://i.pinimg.com/736x/e7/52/f9/e752f93440aa3f70c4866a1746a48b10.jpg",
+	"scores":[
+		4,
+		1,
+		5,
+		2,
+		5,
+		3,
+		4,
+		2,
+		1,
+		5
+	]
+},
+{
+	"name":"Jessie",
+	"photo":"https://pixar-planet.fr/wp-content/uploads/2010/04/jessie-personnage-toy-story-3-01.jpg",
+	"scores":[
+		5,
+		2,
+		3,
+		5,
+		4,
+		2,
+		3,
+		1,
+		2,
+		4
+	]
+}
+];
